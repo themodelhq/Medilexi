@@ -1,0 +1,107 @@
+{
+    "Amoxicillin": {
+        "dosage": {
+            "adult": "500mg every 8 hours",
+            "child": "25mg/kg/day in divided doses"
+        },
+        "indications": ["Respiratory infections", "UTI", "Skin infections"],
+        "interactions": ["Allopurinol", "Methotrexate"],
+        "contraindications": ["Penicillin allergy"],
+        "language_text": {
+            "en": "Take 500 milligrams three times a day after meals.",
+            "sw": "Kunywa miligramu 500 mara tatu kwa siku baada ya chakula."
+        }
+    },
+    "Paracetamol": {
+        "dosage": {
+            "adult": "500mg to 1g every 4-6 hours",
+            "child": "15mg/kg every 4-6 hours"
+        },
+        "indications": ["Fever", "Mild pain"],
+        "interactions": ["Warfarin", "Alcohol"],
+        "contraindications": ["Severe liver impairment"],
+        "language_text": {
+            "en": "Take 500 to 1000 milligrams every 4 to 6 hours.",
+            "sw": "Kunywa miligramu 500 hadi 1000 kila baada ya saa nne hadi sita."
+        }
+    },
+    "Artemether-Lumefantrine": {
+        "dosage": {
+            "adult": "4 tablets twice daily for 3 days",
+            "child": "Weight-based dosing"
+        },
+        "indications": ["Uncomplicated Malaria"],
+        "interactions": ["CYP3A4 inhibitors", "HIV protease inhibitors"],
+        "contraindications": ["Severe malaria", "First trimester pregnancy"],
+        "language_text": {
+            "en": "Take four tablets every 12 hours for three days.",
+            "sw": "Kunywa vidonge vinne kila baada ya saa 12 kwa siku tatu."
+        }
+    },
+    "Ciprofloxacin": {
+        "dosage": {
+            "adult": "500mg every 12 hours for 5–7 days",
+            "child": "Not routinely used"
+        },
+        "indications": ["Typhoid", "UTI", "Diarrheal diseases"],
+        "interactions": ["Antacids", "Theophylline"],
+        "contraindications": ["Children", "Pregnancy", "Myasthenia gravis"],
+        "language_text": {
+            "en": "Take 500 milligrams every 12 hours.",
+            "sw": "Kunywa miligramu 500 kila baada ya saa 12."
+        }
+    },
+    "Oral Rehydration Salts": {
+        "dosage": {
+            "adult": "1 sachet dissolved in 1L water after each loose stool",
+            "child": "Same"
+        },
+        "indications": ["Diarrhea", "Dehydration"],
+        "interactions": [],
+        "contraindications": ["Severe vomiting"],
+        "language_text": {
+            "en": "Mix one sachet in one liter of clean water. Drink after each episode of diarrhea.",
+            "sw": "Changanya pakiti moja katika lita moja ya maji safi. Kunywa baada ya kila kuharisha."
+        }
+    },
+    "Metronidazole": {
+        "dosage": {
+            "adult": "400-500mg every 8 hours for 7 days",
+            "child": "7.5mg/kg every 8 hours"
+        },
+        "indications": ["Giardiasis", "Amoebiasis", "Trichomoniasis"],
+        "interactions": ["Alcohol", "Warfarin"],
+        "contraindications": ["First trimester pregnancy"],
+        "language_text": {
+            "en": "Take 400 milligrams every 8 hours for one week.",
+            "sw": "Kunywa miligramu 400 kila baada ya saa nane kwa wiki moja."
+        }
+    },
+    "Ferrous Sulfate": {
+        "dosage": {
+            "adult": "200mg once or twice daily",
+            "child": "3–6 mg/kg/day in 2–3 divided doses"
+        },
+        "indications": ["Iron deficiency anemia", "Pregnancy supplementation"],
+        "interactions": ["Calcium", "Antacids"],
+        "contraindications": ["Hemochromatosis", "Thalassemia"],
+        "language_text": {
+            "en": "Take one tablet daily after food.",
+            "sw": "Kunywa kidonge kimoja kila siku baada ya chakula."
+        }
+    },
+    "Salbutamol": {
+        "dosage": {
+            "adult": "100–200mcg (1–2 puffs) every 4–6 hours",
+            "child": "100mcg per puff every 6 hours"
+        },
+        "indications": ["Asthma", "Bronchospasm"],
+        "interactions": ["Beta-blockers", "Theophylline"],
+        "contraindications": ["Tachyarrhythmia", "Hypersensitivity"],
+        "language_text": {
+            "en": "Use one or two puffs every 4 to 6 hours as needed.",
+            "sw": "Tumia pumzi moja au mbili kila baada ya saa 4 hadi 6."
+        }
+    }
+}
+

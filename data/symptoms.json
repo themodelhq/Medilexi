@@ -1,0 +1,131 @@
+{
+    "fever": [
+        "Malaria",
+        "Typhoid",
+        "COVID-19",
+        "Common Cold",
+        "Dengue"
+    ],
+    "cough": [
+        "Tuberculosis",
+        "Pneumonia",
+        "COVID-19",
+        "Bronchitis"
+    ],
+    "headache": [
+        "Malaria",
+        "Meningitis",
+        "Migraine",
+        "Tension Headache"
+    ],
+    "vomiting": [
+        "Food Poisoning",
+        "Malaria",
+        "Gastroenteritis",
+        "Pregnancy"
+    ],
+    "diarrhea": [
+        "Cholera",
+        "Gastroenteritis",
+        "Food Poisoning",
+        "Giardiasis"
+    ],
+    "abdominal pain": [
+        "Appendicitis",
+        "Gastritis",
+        "Worm Infestation",
+        "Ulcer"
+    ],
+    "skin rash": [
+        "Measles",
+        "Chickenpox",
+        "Allergy",
+        "Scabies"
+    ],
+    "weight loss": [
+        "Tuberculosis",
+        "HIV/AIDS",
+        "Diabetes"
+    ],
+    "night sweats": [
+        "Tuberculosis",
+        "Lymphoma",
+        "HIV/AIDS"
+    ],
+    "joint pain": [
+        "Rheumatoid Arthritis",
+        "Lupus",
+        "Malaria"
+    ],
+    "fatigue": [
+        "Anemia",
+        "Malaria",
+        "HIV/AIDS",
+        "Depression"
+    ],
+    "shortness of breath": [
+        "Asthma",
+        "Pneumonia",
+        "Heart Failure"
+    ],
+    "chest pain": [
+        "Heart Attack",
+        "Pneumonia",
+        "Tuberculosis"
+    ],
+    "swollen lymph nodes": [
+        "HIV/AIDS",
+        "Tuberculosis",
+        "Lymphoma"
+    ],
+    "bloody stool": [
+        "Dysentery",
+        "Colon Cancer",
+        "Hemorrhoids"
+    ],
+    "yellow eyes": [
+        "Hepatitis",
+        "Sickle Cell Crisis",
+        "Liver Disease"
+    ],
+    "painful urination": [
+        "Urinary Tract Infection",
+        "Gonorrhea",
+        "Chlamydia"
+    ],
+    "vaginal discharge": [
+        "Bacterial Vaginosis",
+        "Trichomoniasis",
+        "Gonorrhea"
+    ],
+    "missed period": [
+        "Pregnancy",
+        "PCOS",
+        "Stress"
+    ],
+    "seizures": [
+        "Epilepsy",
+        "Meningitis",
+        "Severe Malaria"
+    ],
+    "blurred vision": [
+        "Diabetes",
+        "Hypertension",
+        "Cataracts"
+    ],
+    "nausea": [
+        "Pregnancy",
+        "Malaria",
+        "Food Poisoning"
+    ],
+    "dizziness": [
+        "Anemia",
+        "Low Blood Sugar",
+        "High Blood Pressure"
+    ],
+    "sore throat": [
+        "Strep Throat",
+        "Common Cold",
+        "Tonsillitis"
+    ]
+}
